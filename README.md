@@ -5,7 +5,7 @@ I am a second year computer science student from Brazil, I have a passion for le
 On the path to become a Programmer Wizard 
 
 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/iGlFO51WE0Dmg/giphy.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/iGlFO51WE0Dmg/giphy.gif?raw=true" width="308" height="218" />
 
 <hr>
 
