@@ -6,14 +6,13 @@ On the path to become a Programmer Wizard
 
 
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/iGlFO51WE0Dmg/giphy.gif?raw=true" width="408" height="318" />
-    
-<div>
 
+<hr>    
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiagodiaaas&layout=compact&count_private=true)
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=hiagodiaaas&count_private=true&show_icons=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=hiagodiaaas&hide_border=true)
 
-<div>
+
 
