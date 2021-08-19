@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there I'm Hiago 👋
 
-<!--
-**HiagoDiaaas/HiagoDiaaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a second year computer science student from Brazil, I have a passion for learning and developing new skills related to programming and computer science.
 
-Here are some ideas to get you started:
+On the path to become a Programmer Wizard 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/iGlFO51WE0Dmg/giphy.gif?raw=true" width="408" height="318" />
+    
+<div>
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiagodiaaas&layout=compact&count_private=true)
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=hiagodiaaas&count_private=true&show_icons=true)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=hiagodiaaas&hide_border=true)
+
+<div>
+
