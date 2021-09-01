@@ -1,6 +1,6 @@
 ### Hi there, I'm Hiago 👋
 
--I am a second year computer science student from Brazil, currently working at SPC  as a Software Developer Intern.
+-I am a second year computer science student from Brazil, currently working at SPC Brasil  as a Software Developer Intern.
 <br>
 -I have a passion for learning and developing new skills related to programming and computer science.
 <br>
