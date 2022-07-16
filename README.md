@@ -2,7 +2,7 @@
 
  I am a Software Engineer with 2 years of professional experience with coding. Working with technologies such as Java (micro services), React and Python.
 <br>
- I am currently focusing my studies on native iOS application development. So if you have a open iOS developer job role feel free to contact me!
+ I am currently focusing my studies on native iOS application development.
 <br>
 
 
