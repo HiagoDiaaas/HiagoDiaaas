@@ -1,8 +1,8 @@
 ### Hi there, I'm Hiago 👋
 
- I am a Software Engineer with 2 years of professional experience with coding. Working with technologies such as Java (micro services), React and Python.
+ I am a Software Engineer with 2 years of professional experience with coding. Currently working at Cognizant as a iOS developer
 <br>
- I am currently focusing my studies on native iOS application development.
+
 <br>
 
 
